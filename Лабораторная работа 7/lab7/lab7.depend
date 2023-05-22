@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684785900 source:c:\users\a04iv\desktop\press f\Компьютерная графика\Лабораторная работа 7\lab7\camera.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684201884 c:\users\a04iv\desktop\press f\Компьютерная графика\Лабораторная работа 7\lab7\camera.h
+
+1684786208 source:c:\users\a04iv\desktop\press f\Компьютерная графика\Лабораторная работа 7\lab7\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
